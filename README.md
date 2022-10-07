@@ -1,4 +1,4 @@
-# Math-Algorithm
+# Math-Algorithms:
 1. Euclidean Algorithm
 2. Fibonacci Number
 3. Factorial
