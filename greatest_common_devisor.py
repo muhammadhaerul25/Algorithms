@@ -10,4 +10,4 @@ def getGCD(m, n):
       fpb = i
   return fpb
 
-print(f'FPB ({m}, {n}) = {getGCD(m, n)}')
+print(f'GCD ({m}, {n}) = {getGCD(m, n)}')

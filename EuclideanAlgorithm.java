@@ -4,7 +4,7 @@ class EuclideanAlgorithm {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
-		System.out.println("Input dua bilangan: ");
+		System.out.println();
 		int m = scan.nextInt();
 		int n = scan.nextInt();
 
@@ -51,6 +51,6 @@ class EuclideanAlgorithm {
 			n1 = n1*(-1);
 		}
 
-		System.out.println("\nPPB = " + n1);
+		System.out.println("\nGCD = " + n1);
 	}
 }
